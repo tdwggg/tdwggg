@@ -12,4 +12,8 @@ Hello there : )<br><br>🎓 IT Student at Polytechnic University of the Philippi
 ![](https://streak-stats.demolab.com/?user=tdwggg&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tdwggg&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
