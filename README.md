@@ -1,4 +1,4 @@
-# 💫 About Me:
+Know Me
 Hello there : )<br><br>🎓 IT Student at Polytechnic University of the Philippines  <br>💻 Skilled in: PHP, Python, Java, JavaScript, HTML, CSS, SQL  <br>🚀 Passionate about building projects and learning new technologies  <br>📚 Continuously improving and exploring different areas of development  
 
 
