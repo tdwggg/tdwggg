@@ -12,8 +12,8 @@
 
 There's not much about me. Just me, myself and my instruments.
 
-- 🏢 Working at **** in **Tanauan, Batangas**
-- 🌱 Currently learning **Laravel & Cybersecurity**
+- **Tanauan, Batangas**
+- **Cybersecurity**
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +37,3 @@ There's not much about me. Just me, myself and my instruments.
 
 </div>
 
-## ✍️ Latest Blog Posts
-
-## 💖 Support
